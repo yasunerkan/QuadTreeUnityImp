@@ -13,8 +13,14 @@ optional/bonus:
 - polish the player UI controls. add feedback to buttons.
  
  Solution:
-![image](https://user-images.githubusercontent.com/82117271/113932224-08325080-97fc-11eb-813b-2a8b190c428e.png)
-![image](https://user-images.githubusercontent.com/82117271/113932317-2304c500-97fc-11eb-8c6b-13eb635b2992.png)
-![QuadTreeDemo](https://user-images.githubusercontent.com/82117271/113932558-6cedab00-97fc-11eb-9ffe-f6805f659ccc.PNG)
+![QuadTreeUML1](https://user-images.githubusercontent.com/82117271/113933592-7297c080-97fd-11eb-8699-38e6d650c66f.PNG)
+![QuadTreeUML2](https://user-images.githubusercontent.com/82117271/113933638-817e7300-97fd-11eb-8006-03175fb8c89a.PNG)
 ![QuadTreeMenu](https://user-images.githubusercontent.com/82117271/113932560-6d864180-97fc-11eb-8a19-331a4afb6702.PNG)
+![QuadTreeDemo](https://user-images.githubusercontent.com/82117271/113932558-6cedab00-97fc-11eb-9ffe-f6805f659ccc.PNG)
 
+
+Reference:
+
+● https://www.integu.net/visitor-pattern/
+● https://refactoring.guru/design-patterns/visitor
+● https://medium.com/@ErkanYasun/factory-pattern-with-generics-f73432921f99

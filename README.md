@@ -13,9 +13,13 @@ optional/bonus:
 - polish the player UI controls. add feedback to buttons.
  
  Solution:
+ 
 ![QuadTreeUML1](https://user-images.githubusercontent.com/82117271/113933592-7297c080-97fd-11eb-8699-38e6d650c66f.PNG)
+
 ![QuadTreeUML2](https://user-images.githubusercontent.com/82117271/113933638-817e7300-97fd-11eb-8006-03175fb8c89a.PNG)
+
 ![QuadTreeMenu](https://user-images.githubusercontent.com/82117271/113932560-6d864180-97fc-11eb-8a19-331a4afb6702.PNG)
+
 ![QuadTreeDemo](https://user-images.githubusercontent.com/82117271/113932558-6cedab00-97fc-11eb-9ffe-f6805f659ccc.PNG)
 
 

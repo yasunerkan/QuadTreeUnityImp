@@ -8,7 +8,6 @@ write a quadtree implementation for collision detection (rect & circle)
 -try to create as small garbage as possible.
 
 optional/bonus:
-- use ECS without the worker system to do the same implementation. compare the performance results. explain the difference.
 - polish the feeling of the simulation. create particles on collisions, tween the spawning of entities, destroying, etc.
 - polish the player UI controls. add feedback to buttons.
  
